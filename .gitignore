@@ -1,0 +1,4 @@
+.gitgnone
+/env
+/build
+*.spec
