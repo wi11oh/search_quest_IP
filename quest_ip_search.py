@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
     oculuses = search_oculus(devices)
     print("\n\n===========================================")
-    print(f"{target_ip} の範囲内でのOCULUSっぽい奴\n")
+    print(f"{target_ip} の範囲内での QUEST っぽい奴\n")
     if oculuses is None:
         print("なし")
     else:
