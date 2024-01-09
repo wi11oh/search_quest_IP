@@ -37,9 +37,11 @@ def search_oculus(devices:dict):
 
 
 if __name__ == "__main__":
+    print("\r" + "探索中…", end="")
+
     target_ip = "192.168.0.1/24"
     devices = scan(target_ip)
-    print("===========================================")
+    print("\r" + "===========================================")
     print(f"{target_ip} の範囲内で検出された機器\n")
     for k, v in devices.items():
         print(k, " | ", v)
