@@ -8,7 +8,7 @@ questのIPアドレスを探すソフトです
 ![1](readme_image/1.png)
 
 ## 事前準備
-これ単体では動きません。[Npcap](https://npcap.com/#download) が別途必要です。
+これ単体では動きません。[Npcap](https://npcap.com/#download) が別途必要です。インストールだけです（起動はしない）
 
 ### Npcapのインストール
 1. ダウンロード　[ここから](https://npcap.com/#download)
