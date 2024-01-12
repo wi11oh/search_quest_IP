@@ -1,6 +1,3 @@
-module wi11oh.com/search_quest_IP
+module wi11oh/quest_ip_search
 
 go 1.21.6
-
-require (
-)
